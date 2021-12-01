@@ -5,7 +5,7 @@
   The primary languages I have used are Javacript and PHP. I have also been learning React, as I see it as a important framwork to have a good idea of how to use.
   </p>
   <p>
-  Feel free to visit my <a href="https://github.com/graham24" target="_blank">GitHup Profile</a>!
+  Feel free to visit my <a href="https://github.com/graham24" target="_blank">GitHub Profile</a>!
   </p>
   
   
