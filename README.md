@@ -8,11 +8,11 @@ Python, Flask, Vue 3, TypeScript, MySQL, AWS
 
 **What I build on the side**
 
-- A personal budget app with a Python backend and a Vue frontend that pulls in bank data.
-- A grocery service that reads my purchase history and fills my cart through the Kroger API.
-- A Flask webhook that schedules my dishwasher through the Bosch Home Connect API.
-- An iOS fitness and meal planning app built with React Native and Expo.
+- [budget-api](https://github.com/graham24/budget-api). The Flask backend for a household budget app. It imports bank data, categorizes transactions and builds monthly summaries. The frontend is Vue 3.
+- [shopper-buddy](https://github.com/graham24/shopper-buddy). An MCP server that tracks my grocery purchase history and fills my cart through the Kroger API.
+- [dishwasher-webhook](https://github.com/graham24/dishwasher-webhook). A Flask webhook that schedules my dishwasher through the Bosch Home Connect API.
+- [family-fitness-app](https://github.com/graham24/family-fitness-app). An iOS fitness and meal planning app built with React Native and Expo.
 
-Most of my work lives in private repositories. The older public ones here are from when I was learning JavaScript.
+My day to day work lives in private repositories.
 
 You can find more at [grahamh.dev](https://grahamh.dev/).
